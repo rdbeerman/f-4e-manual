@@ -246,7 +246,7 @@ are prone to blockages caused by ice accumulation. To alleviate icing of the pit
 a Pitot Heat Switch is found in the front cockpit right console.
 
 > 🟡 CAUTION: The Pitot Heat switch should always be turned on before takeoff as it may result in flight control 
-> issues caused by bellows freezing, airspeed or altimeter issues. However, ot shouldn't be allowed to run
+> issues caused by bellows freezing, airspeed or altimeter issues. However, it shouldn't be allowed to run
 > longer than one minute on the ground as it could damage the instrument.
 
 ## Air Data Computer System
